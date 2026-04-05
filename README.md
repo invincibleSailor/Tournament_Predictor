@@ -62,8 +62,8 @@ Pipeline Optimization
 
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/tournament-branch-predictor.git
-cd tournament-branch-predictor
+git clone https://github.com/invincibleSailor/Tournament_Predictor.git
+cd Tournament_Predictor
 
 Compile and simulate:
 iverilog -o output src/*.v testbench/tb_predictor.v
